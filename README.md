@@ -4,7 +4,7 @@ An interactive **R Shiny dashboard** exploring historical Olympic data, medal pe
 
 ## 🚀 Live Dashboard
 
-[**Open the Interactive Dashboard →**]([https://styn93-chhavi21.shinyapps.io/shiny-app/])
+[**Open the Interactive Dashboard →**](https://styn93-chhavi21.shinyapps.io/shiny-app/)
 
 ## 📊 Project
 
