@@ -1,7 +1,7 @@
 # 🏅 Olympics Data Analysis
 
 An interactive **R Shiny dashboard** exploring historical Olympic data, medal performance, athlete characteristics, and country-level factors.
-
+------------------------------------------------------------------------
 ## 🚀 Live Dashboard
 
 ### [Open the Interactive Dashboard](https://styn93-chhavi21.shinyapps.io/shiny-app/)
