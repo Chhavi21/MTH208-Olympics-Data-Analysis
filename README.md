@@ -5,9 +5,6 @@ exploring historical Olympic Games data, medal performance, athlete
 characteristics, participation trends, and country-level socioeconomic
 factors.
 
-> **Course:** MTH208\
-> **Project:** Olympics Data Analysis\
-
 ------------------------------------------------------------------------
 
 ## 🚀 Live Dashboard
