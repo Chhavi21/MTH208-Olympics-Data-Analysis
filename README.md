@@ -1,6 +1,6 @@
-# 🏅 MTH208 Olympics Data Analysis
+# 🏅 Olympics Data Analysis
 
-An R-based statistical analysis and interactive **Shiny dashboard**
+An R based statistical analysis and interactive **Shiny dashboard**
 exploring historical Olympic Games data, medal performance, athlete
 characteristics, participation trends, and country-level socioeconomic
 factors.
