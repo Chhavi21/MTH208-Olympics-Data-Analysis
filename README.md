@@ -402,11 +402,6 @@ historical participation may influence both variables.
 
 -   `rvest`
 
-### Report / Graphics
-
--   `Cairo`
--   `extrafont`
-
 ------------------------------------------------------------------------
 
 # ⚙️ Running the Project Locally
