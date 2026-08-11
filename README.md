@@ -202,7 +202,6 @@ MTH208_Olympics_project-main/
 │   └── year_wise_medals.R
 │
 ├── Presentation/
-│   ├── Group_22_Presentation.pdf
 │   ├── link.Rmd
 │   ├── link.html
 │   └── readme.md
@@ -548,12 +547,6 @@ The report covers:
 
 # 🎤 Project Presentation
 
-The project presentation is available at:
-
-``` text
-Presentation/Group_22_Presentation.pdf
-```
-
 The original presentation link is also documented in:
 
 ``` text
@@ -645,4 +638,4 @@ interactive dashboard.
 
 **Project Report:** `Reports/project_report.pdf`
 
-**Presentation:** `Presentation/Group_22_Presentation.pdf`
+**Presentation:** [Open the Presentation](https://docs.google.com/presentation/d/1V-svViVO_BEpGjN8mZdjaQP8Y30-jT6t/edit?usp=sharing&ouid=101128664914796064256&rtpof=true&sd=true)
