@@ -1,6 +1,6 @@
 ---
 title: "Olympics Data Analysis"
-author: "Chhavi Viswakarma"
+<!-- author: "Chhavi Viswakarma" -->
 output: hrbrthemes::ipsum_pdf
 editor_options: 
   markdown: 
